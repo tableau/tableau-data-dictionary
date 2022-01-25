@@ -573,7 +573,7 @@
 <tr class="field"><td>target_db</td><td>character varying</td><td>Part of this credential identifier, can be a database name/project-id.</td><tr>
 <tr class="field"><td>target_user_role</td><td>character varying</td><td>Used when the credential has a "role" property such as Snowflake OAuth.</td><tr>
 <tr class="field"><td>target_extra_info</td><td>text</td><td>Extra info about the target.</td><tr>
-<tr class="field"><td>credential_type</td><td>integer</td><td>See https://gitlab.tableausoftware.com/connectivity/credentials-service-protobuf/-/blob/master/src/main/proto/tableau/credentials/v1/CredentialsService.proto for details.</td><tr>
+<tr class="field"><td>credential_type</td><td>integer</td><td>Type of the credential.</td><tr>
 <tr class="field"><td>internal_credential_id</td><td>integer</td><td>If not null, it is the id of internal_credentials.</td><tr>
 <tr class="field"><td>created_at</td><td>timestamp without time zone</td><td>The time the credential was created.</td><tr>
 <tr class="field"><td>updated_at</td><td>timestamp without time zone</td><td>The latest time the credential was updated.</td><tr>
@@ -5776,7 +5776,7 @@
 <tr class="field"><td>target_db</td><td>character varying</td><td>Part of this credential identifier, can be a database name/project-id.</td><tr>
 <tr class="field"><td>target_user_role</td><td>character varying</td><td>Used when the credential has a "role" property such as Snowflake OAuth.</td><tr>
 <tr class="field"><td>target_extra_info</td><td>text</td><td>Extra info about the target.</td><tr>
-<tr class="field"><td>credential_type</td><td>integer</td><td>See https://sourcegraph.prod.tableautools.com/teams/near/-/blob/workgroup/src/silos/tableau-server/interfaces/tab-domain-keychain-interfaces/src/com/tableausoftware/domain/credentials/ICredentialsService.java for details.</td><tr>
+<tr class="field"><td>credential_type</td><td>integer</td><td>Type of the credential.</td><tr>
 <tr class="field"><td>asset_key_id</td><td>integer</td><td>Id of asset_key which is used for encrypted entry_xml</td><tr>
 <tr class="field"><td>entry_xml</td><td>character varying</td><td>Encrypted keychain xml entry.</td><tr>
 <tr class="field"><td>created_at</td><td>timestamp without time zone</td><td>The time the credential was created.</td><tr>
