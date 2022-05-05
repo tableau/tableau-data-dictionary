@@ -13,7 +13,7 @@ The purpose of most tables is described, along with the type and purpose of colu
 
 Each subdirectory contains files related that specific release.
 
-# Who can help answer question about the data dictionary?
+# Who can help answer questions about the data dictionary?
 
 Reach out to Tableau Support if you have any questions regarding the data dictionary. For more information please refer to Tableau Support Programs at: https://www.tableau.com/support/services.
 
