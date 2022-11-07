@@ -15,7 +15,7 @@ Each subdirectory contains files related that specific release.
 
 # Who can help answer questions about the data dictionary?
 
-Reach out to Tableau Support if you have any questions regarding the data dictionary. For more information please refer to Tableau Support Programs at: https://www.tableau.com/support/services.
+For more information about the Data Dictionary and how it is being used by other customers, see the [Tableau Community](https://community.tableau.com/s/global-search/%40uri#q=data%20dictionary&t=Community).
 
 # What rights are granted for the data dictionary?
 
