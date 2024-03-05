@@ -1,0 +1,19 @@
+#table { font-family:"Lucida Sans Unicode", "Lucida Grande", Sans-Serif;font-size:12px;text-align:left;border-collapse:collapse;margin-left:10%;margin-right:10%;margin-top:40px;margin-bottom:40px; }
+
+                #table tr.field th {font-size:14px;font-weight:bold;background:#b9c9fe;border-top:4px solid #aabcfe;border-bottom:1px solid #fff;color:#039;padding:8px;}
+
+                #table tr.field td {background:#e8edff;border-bottom:1px solid #fff;color:#669;border-top:1px solid transparent;padding:8px;}
+
+                #table tr.field:hover td {background: #BCD4EC;}
+
+                #table tr.fk td {background:#FFD494;border-bottom:1px solid #fff;color:#786549;border-top:1px solid transparent;padding:8px;}
+
+                #table tr.fk:hover td {background:#FFBD5C;}
+
+                table.pgtable_toc { background:#D3E6EA; font-family:"Lucida Sans Unicode", "Lucida Grande", Sans-Serif;font-size:12px;text-align:left;border-collapse:collapse;margin-left:10%;margin-right:10%;margin-top:40px;margin-bottom:40px; }
+
+                table.pgtable_toc tr th { font-size:14px;font-weight:bold;background:#b9c9fe;border-top:4px solid #aabcfe;border-bottom:1px solid #fff;color:#039;padding:8px;}
+
+                table.pgtable_toc tr td { border-bottom:1px solid #fff;color:#669;border-top:1px solid transparent;padding:8px;}
+
+                table.pgtable_toc tr:hover td {background: #BCD4EC;}
